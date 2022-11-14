@@ -1,0 +1,82 @@
+/* @media (max-width:1030px){
+   .header .navbar-nav a.nav-link{
+    padding: 14px 16px;
+   }
+   .infobox{
+    margin-bottom: 16px;
+   }
+   .about_company{
+      margin-bottom: 16px;
+   }
+   .client_box{
+      padding: 32px;
+   }
+   .client_text p{
+      margin: 33px 0;
+   }
+}
+
+@media (max-width:992px){
+   .menu-toggle{
+     position: relative;
+   }
+   .menu-togle span{
+    width: 32px;
+    height: 15px;
+    display: block;
+    background-color: var(--text-color);
+    margin: 15px;
+    cursor: pointer;
+    transition: all 0.3s;
+   }
+   .menu-toggle.active span:nth-child(1){
+    transform: rotate(45deg);
+    position: relative;
+    top: 14px;
+   }
+   .menu-toggle.active span:nth-child(2){
+    display: none;
+   }
+   .menu-toggle.active span:nth-child(3){
+    transform: rotate(-45deg);
+    position: relative;
+    top: 15px;
+   }
+   .client_box{
+      padding: 16px 0;
+      margin-top: 5.2rem;
+   }
+}
+
+@media (max-width:767px){
+   .header .navbar {
+    padding: 8px 0;
+   }   
+   .bg-hero{
+    background-size: 125%;
+    background-repeat: no-repeat;
+    background-position: 25% 15%;
+   }
+   .underline{
+    max-width: 20%;
+   }
+   .banner_content h2{
+    font-size: 33px;
+    width: 100%;
+   }
+   .about_company{
+      min-height: 400px;
+   }
+   .about_box{
+      padding-bottom: 0;
+   }
+   .client_box .section_headline h2{
+      font-size: 32px;
+   }
+   .client_text p{
+      font-size: 16px;
+   }
+   .footer-widget{
+      margin-top: 32px;
+   }
+} */
